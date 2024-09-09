@@ -1,0 +1,11 @@
+Build 1
+	- initial release
+	
+Build 2 - Oct 22nd, 2023
+	- Fix UI glitch in DMX in
+	- Fix SR Out not being locked onto by receivers
+
+Build 3 - Sep 9th, 2024
+	- Fix flicker when displaying groups of N pixels
+	- Enh on fields with large number ranges speed up the spin step when button held for > 1 second
+

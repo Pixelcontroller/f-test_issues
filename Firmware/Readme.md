@@ -3,7 +3,7 @@ To download the FL3 file:
 1. Click on the .fl3 file above
 2. Near the right hand side of the screen will be a Raw button followed by 2 icons. The rightmost button is the download. Click that button to download the file.
 3. The file will download to the usual location when you download files to your computer.
-4. Now you can upload the file to the controller or place it on an SD card to load it.
+4. Now you can place it on an SD card to load it.
 
 If the f-tester complains the file is not valid the most likely reasons are downloading it incorrectly.
 
