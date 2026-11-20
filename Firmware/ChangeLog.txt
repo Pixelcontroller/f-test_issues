@@ -12,3 +12,6 @@ Build 3 - Sep 9th, 2024
 Build 4 - October 13, 2026
 	- Improve pixel counting algorithm. Even on low current draw pixels it will get close. Lights up last counted LED green on count completion
 	- Improve stability of V5 smart receiver input protocol reading
+
+Build 5 - November 20, 2026
+	- Fix Smart Receiver output not working on version 2 boards.
